@@ -1,0 +1,9 @@
+Includes four sample SQL files to test Gh script.
+
+Copy the folders to a local drive at the location: C:\Simulation\test_results\run\honeybee_scenario\
+
+The above mirrors the path where Dragonfly/URBANopt store results for each building ID in the simulation.
+
+Notes:
+Building IDs 214127, 214132, and 214137 have a Zone Multiplier of 3, 5, and 4, respectively.
+Building ID 82562 has no multipliers.
